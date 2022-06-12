@@ -1,0 +1,6 @@
+name: Chat
+version: '${project.version}'
+main: chat.chat.Chat
+api-version: 1.18
+authors: [ SZJK ]
+description: Chat Plugin
